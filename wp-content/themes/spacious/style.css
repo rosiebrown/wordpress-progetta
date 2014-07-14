@@ -457,7 +457,7 @@ body {
 	max-width: 1268px;
 	margin: 0 auto;
 	background-color: #FFFFFF;
-	box-shadow: 0 2px 6px rgba(100, 100, 100, 0.3);
+	
 }
 .wide-978, .wide-1218 {	
 	padding-top: 0;
@@ -1715,6 +1715,7 @@ a#scroll-up:hover {
 	font-family: 'Lato', sans-serif;
 	margin: 0 0 20px;
 }
+	
 .post .entry-meta .by-author,
 .post .entry-meta .date,
 .post .entry-meta .category,
