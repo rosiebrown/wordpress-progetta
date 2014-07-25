@@ -864,7 +864,7 @@ li.default-menu {
 /* =PAGE HEADER TITLE
 ----------------------------------------------- */
 .header-post-title-container {
-	border-bottom: 1px solid #EAEAEA;
+	border-bottom: px solid #EAEAEA;
 	padding;
 	box-shadow: 0 0 0px rgba(0, 0, 0, 0.05) inset;
 }
